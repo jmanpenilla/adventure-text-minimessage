@@ -77,4 +77,4 @@ For more examples and a break down of all supported components, please refer to 
 
 ### Changelog
 
-You can find the changelog [here](CHANGELOG.md).
+You can find the changelog [here](CHANGELOG.md).a
