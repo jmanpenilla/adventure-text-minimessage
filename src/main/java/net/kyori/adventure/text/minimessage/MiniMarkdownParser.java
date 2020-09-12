@@ -53,6 +53,7 @@ import java.util.stream.Stream;
   private static String handle(final @NonNull String input, final boolean strip) {
     StringBuilder sb = new StringBuilder();
 
+    
     int bold = -1;
     Insert boldSkip = null;
     int italic = -1;
